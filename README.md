@@ -3,7 +3,9 @@
 **Language :** Python3 <br>
 **Main Modules Used :**
 <ul type="square">
-  <li>Tkinter (installed by default)<li>
+  <li>Tkinter (installed by default)</li>
   <li>PIL -> Python Imaging Library (pip install pillow)</li>
+  <li>Random (Installed by default)</li>
+  <li>Time (Installed by default)</li>
 </ul>
 
